@@ -1,0 +1,36 @@
+Concept,Concept ID,Parent,Publications 2018,Publications 2019,Publications 2020,Publications 2021,Publications 2022,Publications 2023,Publications 2024,Rank 2018,Rank 2019,Rank 2020,Rank 2021,Rank 2022,Rank 2023,Rank 2024
+Artificial neural network,https://openalex.org/C50644808,Machine Learning,52076,67574,81032,94981,96878,104909,51834,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Deep learning,https://openalex.org/C108583219,Machine Learning,20466,31046,40030,49753,53351,61959,31221,5.0,4.0,3.0,3.0,2.0,2.0,2.0
+Robot,https://openalex.org/C90509273,Artificial Intelligence,30807,34623,35269,37518,37619,41965,25737,3.0,3.0,4.0,5.0,5.0,5.0,3.0
+Logistic regression,https://openalex.org/C151956035,Machine Learning,31011,35717,46835,52018,52191,51923,23496,2.0,2.0,2.0,2.0,3.0,3.0,4.0
+Convolutional neural network,https://openalex.org/C81363708,Machine Learning,19178,27717,32991,39867,41474,43957,16583,6.0,5.0,5.0,4.0,4.0,4.0,5.0
+Stability (learning theory),https://openalex.org/C112972136,Machine Learning,20617,21677,23310,24188,23302,25213,15085,4.0,6.0,6.0,7.0,7.0,7.0,6.0
+Fuzzy logic,https://openalex.org/C58166,Machine Learning,18636,19644,19941,20492,18927,19420,12472,7.0,9.0,9.0,9.0,10.0,11.0,7.0
+Reinforcement learning,https://openalex.org/C97541855,Machine Learning,5551,8921,11953,14868,15251,19016,11473,21.0,17.0,15.0,15.0,14.0,12.0,8.0
+Cluster analysis,https://openalex.org/C73555534,Machine Learning,18542,20315,21372,23223,22418,23385,11378,8.0,7.0,8.0,8.0,8.0,8.0,9.0
+Support vector machine,https://openalex.org/C12267149,Machine Learning,16891,19704,22110,25758,26863,28096,10517,9.0,8.0,7.0,6.0,6.0,6.0,10.0
+Inference,https://openalex.org/C2776214188,Artificial Intelligence,12498,14508,16942,19401,18243,21534,8602,12.0,12.0,10.0,10.0,11.0,10.0,11.0
+Receiver operating characteristic,https://openalex.org/C58471807,Machine Learning,7505,9145,12829,15450,16126,16309,7802,16.0,16.0,14.0,14.0,13.0,15.0,12.0
+Feature extraction,https://openalex.org/C52622490,Machine Learning,11840,14081,14894,18068,20627,22750,7729,13.0,13.0,13.0,11.0,9.0,9.0,13.0
+Regression analysis,https://openalex.org/C152877465,Machine Learning,13227,14669,16751,17449,16259,16966,7721,11.0,11.0,11.0,12.0,12.0,14.0,14.0
+Big data,https://openalex.org/C75684735,Machine Learning,14634,15308,16072,16670,15198,15346,7639,10.0,10.0,12.0,13.0,15.0,16.0,15.0
+Random forest,https://openalex.org/C169258074,Machine Learning,4856,6793,9282,12981,15088,18187,7568,23.0,21.0,18.0,16.0,16.0,13.0,16.0
+Time series,https://openalex.org/C151406439,Machine Learning,5720,6827,7788,8511,8119,9456,6281,19.0,20.0,20.0,19.0,22.0,18.0,17.0
+Analytics,https://openalex.org/C79158427,Machine Learning,8961,9804,9881,9441,8605,9310,6204,14.0,15.0,17.0,18.0,18.0,19.0,18.0
+Automation,https://openalex.org/C115901376,Artificial Intelligence,8697,10096,11462,11820,11323,12418,5397,15.0,14.0,16.0,17.0,17.0,17.0,19.0
+Anomaly detection,https://openalex.org/C739882,Machine Learning,3117,3983,4813,5613,6050,7464,5122,35.0,33.0,29.0,27.0,27.0,24.0,20.0
+Boosting (machine learning),https://openalex.org/C46686674,Machine Learning,2016,2710,3507,4554,5296,6772,5087,47.0,40.0,38.0,35.0,28.0,26.0,21.0
+Feature selection,https://openalex.org/C148483581,Machine Learning,5077,5915,6541,7780,8248,9106,4646,22.0,23.0,22.0,22.0,19.0,21.0,22.0
+Genetic algorithm,https://openalex.org/C8880873,Machine Learning,7112,7339,7684,8160,8179,8016,4070,18.0,19.0,21.0,21.0,21.0,22.0,23.0
+Sentiment analysis,https://openalex.org/C66402592,Machine Learning,3635,4045,5092,5830,6116,7043,3986,32.0,32.0,27.0,26.0,26.0,25.0,24.0
+Decision tree,https://openalex.org/C84525736,Machine Learning,3768,4713,5996,7421,8225,9132,3296,30.0,26.0,25.0,23.0,20.0,20.0,25.0
+Ensemble learning,https://openalex.org/C45942800,Machine Learning,1447,1885,2492,3153,3564,4519,3154,56.0,51.5,45.0,42.0,38.0,35.0,26.0
+Recommender system,https://openalex.org/C557471498,Machine Learning,3833,4315,4621,5083,5267,6034,2896,29.0,31.0,31.0,31.0,30.0,28.0,27.0
+Heuristic,https://openalex.org/C173801870,Machine Learning,7117,7434,7940,8473,7646,7886,2746,17.0,18.0,19.0,20.0,23.0,23.0,28.0
+Principal component analysis,https://openalex.org/C27438332,Machine Learning,5696,5926,6536,7236,6795,6715,2607,20.0,22.0,23.0,24.0,24.0,27.0,29.0
+Game theory,https://openalex.org/C177142836,Artificial Intelligence,4599,4564,4536,4688,4268,4576,2571,25.0,28.0,32.0,32.0,34.0,34.0,30.0
+Computer simulation,https://openalex.org/C500300565,Artificial Intelligence,4280,4414,4319,4670,4439,4510,2510,27.0,29.0,33.0,33.0,33.0,36.0,31.0
+Embodied cognition,https://openalex.org/C100609095,Artificial Intelligence,4441,4639,4962,5401,5010,5109,2316,26.0,27.0,28.0,30.0,32.0,32.0,32.0
+Discriminative model,https://openalex.org/C97931131,Machine Learning,3667,4334,4706,5555,5276,5940,1590,31.0,30.0,30.0,28.0,29.0,30.0,37.0
+Data set,https://openalex.org/C58489278,Machine Learning,4849,5261,6083,6913,6389,6003,1331,24.0,24.0,24.0,25.0,25.0,29.0,47.0
+Variables,https://openalex.org/C27574286,Machine Learning,4242,4950,5391,5479,5184,5200,1131,28.0,25.0,26.0,29.0,31.0,31.0,52.0

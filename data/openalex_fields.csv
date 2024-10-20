@@ -1,0 +1,27 @@
+id,field,parent domain
+https://openalex.org/fields/15,Chemical Engineering,Physical Sciences
+https://openalex.org/fields/16,Chemistry,Physical Sciences
+https://openalex.org/fields/17,Computer Science,Physical Sciences
+https://openalex.org/fields/19,Earth and Planetary Sciences,Physical Sciences
+https://openalex.org/fields/21,Energy,Physical Sciences
+https://openalex.org/fields/22,Engineering,Physical Sciences
+https://openalex.org/fields/23,Environmental Science,Physical Sciences
+https://openalex.org/fields/25,Materials Science,Physical Sciences
+https://openalex.org/fields/26,Mathematics,Physical Sciences
+https://openalex.org/fields/31,Physics and Astronomy,Physical Sciences
+https://openalex.org/fields/12,Arts and Humanities,Social Sciences
+https://openalex.org/fields/14,"Business, Management and Accounting",Social Sciences
+https://openalex.org/fields/18,Decision Sciences,Social Sciences
+https://openalex.org/fields/20,"Economics, Econometrics and Finance",Social Sciences
+https://openalex.org/fields/32,Psychology,Social Sciences
+https://openalex.org/fields/33,Social Sciences,Social Sciences
+https://openalex.org/fields/35,Dentistry,Health Sciences
+https://openalex.org/fields/36,Health Professions,Health Sciences
+https://openalex.org/fields/27,Medicine,Health Sciences
+https://openalex.org/fields/29,Nursing,Health Sciences
+https://openalex.org/fields/34,Veterinary,Health Sciences
+https://openalex.org/fields/11,Agricultural and Biological Sciences,Life Sciences
+https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+https://openalex.org/fields/24,Immunology and Microbiology,Life Sciences
+https://openalex.org/fields/28,Neuroscience,Life Sciences
+https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences
